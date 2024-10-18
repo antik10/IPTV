@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="Channel 24.bd" group-title="Bangla",Channel 24
+http://apex01.keycdn.cc/Channel24Bangla/index.m3u8?token=a4b47e44ffc4b9451859334bc811110a
